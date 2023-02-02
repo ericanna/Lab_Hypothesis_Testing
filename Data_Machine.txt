@@ -1,6 +1,6 @@
-New Machine	  Old Machine
+New Machine	Old Machine
 42.1	        42.7
-41	          43.6
+41	        43.6
 41.3	        43.8
 41.8	        43.3
 42.4	        42.5
